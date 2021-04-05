@@ -1,4 +1,4 @@
-package parcial2.tindort;
+package tinder;
 
 import java.util.ArrayList;
 

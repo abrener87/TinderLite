@@ -1,4 +1,4 @@
-package parcial2.tindort;
+package tinder;
 
 public enum Genero {
 	FEMENINO, MASCULINO, OTRX, INDISTINTO
